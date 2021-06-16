@@ -8,8 +8,8 @@ Installation:
 - $ brew install applesimutils
 - $ npm install -g detox-cli
 
-Run:
-- clone this project
-- yarn install && cd ios && pod install && cd ..
-- detox build --configuration ios
-- detox test --configuration ios
+How to run:
+* $ clone this project
+* $ yarn install && cd ios && pod install && cd ..
+* $ detox build --configuration ios
+* $ detox test --configuration ios
