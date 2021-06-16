@@ -1,7 +1,7 @@
 # ReactNative-Detox
 sample example for detox with react native 
 
-Follow this for detailed: https://github.com/wix/Detox#readme
+Follow: https://github.com/wix/Detox#readme
 
 Installation:
 - $ brew tap wix/brew
